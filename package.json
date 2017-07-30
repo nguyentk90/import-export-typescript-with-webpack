@@ -1,0 +1,21 @@
+{
+  "name": "import-export-typescript-with-webpack",
+  "version": "1.0.0",
+  "description": "Sample import and export in TypeScript with Webpack",
+  "main": "app.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-loader": "^2.3.2",
+    "typescript": "^2.4.2",
+    "webpack": "^3.4.1"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/webpack"
+  },
+  "keywords": [
+    "typescript",
+    "webpack"
+  ],
+  "author": "Nguyen Tran <nguyentk90@outlook.com> (https://nguyentr.com/)",
+  "license": "MIT"
+}
