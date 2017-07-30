@@ -1,10 +1,10 @@
-#Sample import and export in TypeScript with Webpack
+# Sample import and export in TypeScript with Webpack
 
-##Setup
+## Setup
 >npm install
 
-##Build
+## Build
 >npm start
 
-##Run
+## Run
 Open index.html in browser, check console log to see result.
